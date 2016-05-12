@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>ocpwin</id>
+        <version>4.01.0.20160113</version>
+        <title>OCPWin</title>
+        <authors>OCamlPro</authors>
+        <owners>andyli</owners>
+        <licenseUrl>https://github.com/OCamlPro/ocpwin-distrib/blob/master/LICENSE.ocpwin.v1</licenseUrl>
+        <projectUrl>http://www.typerex.org/ocpwin.html</projectUrl>
+        <docsUrl>https://github.com/OCamlPro/ocpwin-distrib</docsUrl>
+        <bugTrackerUrl>https://github.com/OCamlPro/ocpwin-distrib/issues</bugTrackerUrl>
+        <projectSourceUrl>https://github.com/OCamlPro/ocpwin-distrib</projectSourceUrl>
+        <packageSourceUrl>https://github.com/andyli/ocpwin-choco</packageSourceUrl>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <summary>OCPWin, an OCaml distribution for Windows</summary>
+        <description>OCPWin is a binary OCaml distribution for Windows. It is self-contained and runs natively on Windows, which means you can generate OCaml applications with it without installing Cygwin or Windows SDK.
+
+The license allows you to distribute applications compiled with OCPWin for commercial purpose, as long as you do not distribute the OCaml compiler itself.
+
+This Chocolatey package install the msvc version.</description>
+        <releaseNotes>https://github.com/OCamlPro/ocpwin-distrib/blob/master/ReleaseNotes/ocpwin-20160113-release-notes.md</releaseNotes>
+        <tags>ocaml compiler admin</tags>
+    </metadata>
+</package>
