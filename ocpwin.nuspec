@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>ocpwin</id>
-        <version>4.01.0.20160113</version>
+        <version>4.02.1.20160113</version>
         <title>OCPWin</title>
         <authors>OCamlPro</authors>
         <owners>andyli</owners>
