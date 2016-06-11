@@ -22,4 +22,7 @@ This Chocolatey package install the msvc version.</description>
         <releaseNotes>https://github.com/OCamlPro/ocpwin-distrib/blob/master/ReleaseNotes/ocpwin-20160113-release-notes.md</releaseNotes>
         <tags>ocaml compiler admin</tags>
     </metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
 </package>
